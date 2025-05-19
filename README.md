@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **DSA, Python,Machine Learning**
 
-- 💬 Ask me about **node.js**
-
 - 📫 How to reach me **himanshu231204@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
