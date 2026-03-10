@@ -110,18 +110,6 @@ pip install ollama-git-commit
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=himanshu231204&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu231204&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🌟 Open Source Mission
 
 I enjoy building tools that help developers work faster.
