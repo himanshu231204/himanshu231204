@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-I build practical tools that simplify developer workflows and explore AI-powered automation.
+Open Source Contributor | Developer Tools & AI Projects | CSE Undergraduate
 </p>
 
 ---
@@ -13,7 +13,8 @@ I build practical tools that simplify developer workflows and explore AI-powered
 # 👨‍💻 About Me
 
 🎓 CSE Undergraduate  
-💻 Aspiring Software Engineer  
+💻 Open Source Contributor  
+🚀 Building Developer Tools & AI Projects  
 🧠 Interested in **Machine Learning, AI tools & Backend Development**  
 
 Currently focused on:
@@ -134,7 +135,10 @@ More tools coming soon 🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu231204&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=himanshu231204&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=himanshu231204&theme=default_repocard&no-frame=true&margin-w=10" />
+</p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
