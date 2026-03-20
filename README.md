@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Himanshu%20Kumar&fontSize=50&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Open%20Source%20Builder%20%7C%20Backend%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descSize=16&descAlignY=55&descColor=ffffff" alt="Animated header banner for Himanshu Kumar's GitHub profile" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu231204&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/himanshu231204?label=Followers&style=social" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/watchers/himanshu231204/himanshu231204?label=Profile%20Repo%20Watchers&style=social" alt="Profile Repo Watchers" />
