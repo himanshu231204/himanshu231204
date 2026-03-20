@@ -8,7 +8,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Himanshu%20Kumar&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=68" alt="Animated waving banner with greeting: Hi, I'm Himanshu Kumar" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+Source+Builder+%F0%9F%9A%80;Backend+Developer+%F0%9F%96%A5%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Python+Developer+Tools+Craftsman+%F0%9F%94%A7;Local+LLM+Explorer+%F0%9F%A7%A0;DSA+in+C%2B%2B+Practitioner+%E2%9A%A1" alt="Animated text showing professional roles: Open Source Builder, Backend Developer, AI &amp; ML Enthusiast, Python Developer Tools Craftsman, Local LLM Explorer, DSA in C++ Practitioner" />
@@ -16,7 +18,9 @@
 
 ---
 
-## 🙋‍♂️ About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&text=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%20About%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Animated section header for About Me" />
+</p>
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
