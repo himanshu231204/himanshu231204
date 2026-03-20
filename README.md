@@ -24,16 +24,20 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```python
-class Himanshu:
-    name       = "Himanshu Kumar"
-    location   = "India 🇮🇳"
-    education  = "B.Tech CSE (Undergraduate)"
-    roles      = ["Open Source Contributor", "Backend Developer",
-                  "AI/ML Enthusiast", "Developer Tools Builder"]
-    currently  = "Building Python Developer Tools & exploring Local AI 🤖"
-    fun_fact   = "I automate Git workflows AND write commit messages with AI! 🚀"
-```
+<!-- Animated card for class Himanshu — decoded SVG lines:
+     name       = "Himanshu Kumar"
+     location   = "India 🇮🇳"
+     education  = "B.Tech CSE (Undergraduate)"
+     roles      = ["Open Source Contributor",
+                   "Backend Developer", ...]
+     currently  = "Python Dev Tools & Local AI 🤖"
+     fun_fact   = "I automate Git workflows w/ AI! 🚀"
+-->
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%90%8D+class+Himanshu%3A&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="class Himanshu animated card header" width="520" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=2000&color=00D9FF&center=false&vCenter=true&multiline=true&width=520&height=200&lines=++++name+++++++=+%22Himanshu+Kumar%22;++++location+++=+%22India+%F0%9F%87%AE%F0%9F%87%B3%22;++++education++=+%22B.Tech+CSE+(Undergraduate)%22;++++roles++++++=+%5B%22Open+Source+Contributor%22%2C;++++++++++++++++++%22Backend+Developer%22%2C+...%5D;++++currently++=+%22Python+Dev+Tools+%26+Local+AI+%F0%9F%A4%96%22;++++fun_fact+++=+%22I+automate+Git+workflows+w%2F+AI%21+%F0%9F%9A%80%22" alt="Animated class Himanshu attributes" width="520" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=6" alt="card bottom border" width="520" />
+</p>
 
 - 🎓 **CSE Undergraduate** — passionate about building things that matter
 - 💻 **Open Source Contributor** — sharing tools the dev community can use
