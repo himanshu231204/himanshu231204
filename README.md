@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+Source+Builder+%F0%9F%9A%80;Backend+Developer+%F0%9F%96%A5%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Python+Developer+Tools+Craftsman+%F0%9F%94%A7;Local+LLM+Explorer+%F0%9F%A7%A0;DSA+in+C%2B%2B+Practitioner+%E2%9A%A1" alt="Animated text showing professional roles: Open Source Builder, Backend Developer, AI &amp; ML Enthusiast, Python Developer Tools Craftsman, Local LLM Explorer, DSA in C++ Practitioner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+Source+Builder+%F0%9F%9A%80;Backend+Developer+%F0%9F%96%A5%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Python+Developer+Tools+Craftsman+%F0%9F%94%A7;Local+LLM+Explorer+%F0%9F%A7%A0;DSA+in+C%2B%2B+Practitioner+%E2%9A%A1" alt="Animated text showing professional roles: Open Source Builder, AI Engineer, AI &amp; ML Enthusiast, Python Developer Tools Craftsman, Local LLM Explorer, DSA in C++ Practitioner" />
 </p>
 
 ---
