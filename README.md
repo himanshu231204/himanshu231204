@@ -4,9 +4,7 @@
   <img src="https://img.shields.io/github/watchers/himanshu231204/himanshu231204?label=Profile%20Repo%20Watchers&style=social" alt="Profile Repo Watchers" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Himanshu%20Kumar&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=68" alt="Animated waving banner with greeting: Hi, I'm Himanshu Kumar" />
