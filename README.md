@@ -178,7 +178,7 @@ I enjoy building tools that help developers work faster.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu231204&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=himanshu231204&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6E00&currStreakLabel=00D9FF" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=himanshu231204&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6E00&currStreakLabel=00D9FF" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu231204&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
 </p>
 
@@ -212,7 +212,7 @@ I enjoy building tools that help developers work faster.
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=himanshu231204&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=himanshu231204&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
 
 ---
 
