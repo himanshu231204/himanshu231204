@@ -19,6 +19,13 @@
 
 CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and ship open source tools around **agentic systems**, **RAG pipelines**, and **LLM infrastructure** — from CLI tools with real installs to evaluation frameworks for RAG quality.
 
+<p align="left">
+<a href="https://linkedin.com/in/himanshu231204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/himanshu231204" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/itz.hk23" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="mailto:himanshu231204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
 - **Focus:** Agentic systems, LLM infra, RAG, developer tooling
 - **Org:** [OpenAgentHQ](https://github.com/OpenAgentHQ)
 - **Portfolio:** [himanshu231204.vercel.app](https://himanshu231204.vercel.app)
@@ -81,17 +88,6 @@ AI-powered Chrome Extension that generates context-aware LinkedIn comments using
 - [OpenAgentHQ/openagent-eval](https://github.com/OpenAgentHQ/openagent-eval) — 13+ merged PRs: PR review workflows, regression tests, release maintenance
 - [OpenAgentHQ/modeldock](https://github.com/OpenAgentHQ/modeldock) — LM Studio runtime adapter, CI/CD fixes
 - [avenx-js](https://github.com/himanshu231204/avenx-js) — Compiler documentation
-
----
-
-## Connect
-
-<p align="left">
-<a href="https://linkedin.com/in/himanshu231204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://x.com/himanshu231204" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/itz.hk23" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-<a href="mailto:himanshu231204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
 
 ---
 
