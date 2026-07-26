@@ -1,77 +1,50 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu231204&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/himanshu231204?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/watchers/himanshu231204/himanshu231204?label=Profile%20Repo%20Watchers&style=social" alt="Profile Repo Watchers" />
 </p>
 
-
+<h1 align="center">Himanshu Kumar</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Himanshu%20Kumar&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=68" alt="Animated waving banner with greeting: Hi, I'm Himanshu Kumar" />
+  AI Engineer · Founder of <a href="https://github.com/OpenAgentHQ">OpenAgentHQ</a> · Open Source Contributor
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%8D%EF%B8%8F;ML+Engineer+%F0%9F%93%8A;LLM+Infra+Builder+%F0%9F%9A%80;Agentic+Systems+%F0%9F%94%84;Founder+%40OpenAgentHQ+%F0%9F%92%A1" alt="Animated text showing professional roles: AI Engineer, Open Source Contributor, ML Engineer, LLM Infra Builder, Agentic Systems, Founder @OpenAgentHQ" />
+  Building agentic systems, LLM infrastructure & developer tools.
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=70&text=%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F%20About%20Me&fontSize=30&fontColor=ffffff&animation=fadeIn" alt="Animated section header for About Me" />
-</p>
-
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%91%A4+class+Himanshu%3A&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="class Himanshu animated card header" width="520" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=2000&color=00D9FF&center=false&vCenter=true&multiline=true&width=520&height=200&lines=++++name+++++++=+%22Himanshu+Kumar%22;++++handle+++++=+%22%40himanshu231204%22;++++identity+++=+%22AI+Engineer+%C2%B7+Founder%2C+OpenAgentHQ%22;++++education++=+%22B.Tech+CSE+(Undergraduate)%22;++++focus++++++=%22Agentic+Systems+%26+LLM+Infra%22;++++currently++=+%22Shipping+open+source+AI+tools%22" alt="Animated class Himanshu attributes" width="520" /><br/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=6" alt="card bottom border" width="520" />
-</p>
+## About Me
 
 CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and ship open source tools around **agentic systems**, **RAG pipelines**, and **LLM infrastructure** — from CLI tools with real installs to evaluation frameworks for RAG quality.
 
-<br clear="right"/>
+- **Focus:** Agentic systems, LLM infra, RAG, developer tooling
+- **Org:** [OpenAgentHQ](https://github.com/OpenAgentHQ)
+- **Portfolio:** [himanshu231204.vercel.app](https://himanshu231204.vercel.app)
 
 ---
 
-## 🎯 Current Focus
+## Featured Projects
 
-Building **agentic systems** and **LLM infrastructure** that ship. Currently working on:
-- Prompt engineering curriculum for production-grade AI workflows
-- RAG pipelines and evaluation frameworks
-- Open source tools that developers actually use
+### [OpenAgentHQ/openagent-eval](https://github.com/OpenAgentHQ/openagent-eval)
+Local-first evaluation framework for RAG systems and AI Agents. 18+ metrics, CLI + SDK, framework-agnostic. The pytest of AI evaluation.
 
----
-
-## 🚀 Featured Projects
-
-### [prompt-engineering-mastery](https://github.com/himanshu231204/prompt-engineering-mastery)
-Production-grade prompt engineering curriculum — 7 modules covering foundations, reasoning, RAG, security, and evaluation.
-
-Model-agnostic (OpenAI/Anthropic/Ollama), runnable notebooks, mini-projects, Mermaid diagrams. Not prompt tips — prompt engineering as a discipline.
-
-`Python` `Jupyter` `LLM` · 🟢 Active
+`Python` `RAG` `Evaluation` `CLI` · 🟢 Active
 
 ---
 
-### [ml-mastery](https://github.com/himanshu231204/ml-mastery)
-A structured Machine Learning learning & revision repository with hands-on notebooks, practical examples, and quick reference guides for developers and students.
+### [OpenAgentHQ/modeldock](https://github.com/OpenAgentHQ/modeldock)
+Lightweight, Python-first model manager for local LLMs. Discover, download, cache, verify, and load models through pluggable runtime adapters — Ollama, LM Studio, llama.cpp, and more.
 
-`Jupyter Notebook` `Python` `Scikit-Learn` `NumPy` · 🟢 Active
+`Python` `LLM` `Ollama` `Model Management` · 🟢 Active
 
 ---
 
 ### [run-git](https://github.com/himanshu231204/run-git)
-Lightweight Python CLI tool designed to simplify and automate common Git workflows. Quickly stage, commit, and push code using a single command — reducing repetitive Git commands and improving developer productivity.
+Lightweight Python CLI tool to simplify and automate common Git workflows. Stage, commit, and push in a single command.
 
 `Python` `CLI` `Git` · 🟢 Active
-
----
-
-### [ragnova-rag-chatbot](https://github.com/himanshu231204/ragnova-rag-chatbot)
-End-to-end RAG (Retrieval-Augmented Generation) pipeline built with LangChain, ChromaDB & Sentence Transformers — ingest PDFs, generate embeddings, and build a semantic search knowledge base for LLM-powered Q&A systems.
-
-`Jupyter Notebook` `LangChain` `ChromaDB` · 🟢 Active
 
 ---
 
@@ -83,139 +56,46 @@ AI intelligence agent that monitors, analyzes, and delivers high-signal AI news,
 ---
 
 ### [ai-commit](https://github.com/himanshu231204/ai-commit)
-Generate intelligent git commit messages using local Ollama AI models. Free, private, and works offline!
+Generate intelligent git commit messages using local Ollama AI models. Free, private, and works offline.
 
 `Python` `Ollama` `LLM` · 🟢 Active
 
+---
+
+### [linkedin-ai-comment-copilot](https://github.com/himanshu231204/linkedin-ai-comment-copilot)
+AI-powered Chrome Extension that generates context-aware LinkedIn comments using LangGraph multi-agent workflows, FastAPI, and LangChain.
+
+`Python` `LangGraph` `FastAPI` `Chrome Extension` · 🟢 Active
+
 <p align="center">
   <a href="https://github.com/himanshu231204?tab=repositories">
-    <img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20View%20All%20Public%20Repos-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/%F0%9F%97%82%EF%B8%8F%20View%20All%20Repos-%23181717.svg?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/himanshu231204" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://x.com/himanshu231204" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/itz.hk23" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:himanshu231204@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-## 🛠️ Tech Arsenal
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Languages+%7C+Frameworks+%7C+Tools+%7C+Cloud" alt="Animated text displaying tech stack categories: Languages, Frameworks, Tools, Cloud" />
-</p>
-
-### 💻 Programming Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-</p>
-
-### 🤖 Machine Learning & Data Science
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</p>
-
-### ⚙️ Backend & Frameworks
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
-
-### 🛠️ DevOps & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
-  <img src="https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=mlflow&logoColor=blue" alt="MLflow"/>
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
-</p>
-
-### ☁️ Cloud & Platforms
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-</p>
-
----
-
-## 🌟 Open Source
-
-### Contributions
+## Open Source Contributions
 
 - [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) — PRs for connector features, error handling, workflow preservation
 - [OpenAgentHQ/openagent-eval](https://github.com/OpenAgentHQ/openagent-eval) — 13+ merged PRs: PR review workflows, regression tests, release maintenance
 - [OpenAgentHQ/modeldock](https://github.com/OpenAgentHQ/modeldock) — LM Studio runtime adapter, CI/CD fixes
 - [avenx-js](https://github.com/himanshu231204/avenx-js) — Compiler documentation
-- [Socratic-Math-Tutor](https://github.com/melisasvr/Socratic-Math-Tutor) — Mistake pattern detection feature
-
-### Learning Resources
-
-I maintain structured learning repos to help developers learn AI/ML from fundamentals to production:
-
-- [ml-mastery](https://github.com/himanshu231204/ml-mastery) — ML algorithms, notebooks, quick reference guides
-- [PyTorch-Mastery](https://github.com/himanshu231204/PyTorch-Mastery) — Tensors to LLM fine-tuning, one notebook per concept
-- [dl-mastery](https://github.com/himanshu231204/dl-mastery) — Math-first, code-deep Deep Learning for engineers
-- [langchain-playground](https://github.com/himanshu231204/langchain-playground--for-llms-) — LangChain code snippets, notes, mini-projects
-- [langgraph-structured-learning](https://github.com/himanshu231204/langgraph-structured-learning) — Stateful agentic AI systems with LangGraph
-- [prompt-engineering-mastery](https://github.com/himanshu231204/prompt-engineering-mastery) — 7-module prompt engineering curriculum
-- [ML-Algorithms-by-Himanshu](https://github.com/himanshu231204/ML-Algorithms-by-Himanshu) — AI search algorithms with pseudocode & visuals
 
 ---
 
-## 📊 GitHub Stats
+## Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/himanshu231204" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/himanshu231204" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://instagram.com/itz.hk23" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+<a href="mailto:himanshu231204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu231204&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" /><br/>
@@ -223,51 +103,8 @@ I maintain structured learning repos to help developers learn AI/ML from fundame
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu231204&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himanshu231204/himanshu231204/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himanshu231204/himanshu231204/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/himanshu231204/himanshu231204/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=himanshu231204&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
-## 📈 Activity Graph
+## Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu231204&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6E00" />
 </p>
-
-
-### 🔝 Top Contributed Repo
-
-![](https://github-readme-stats.vercel.app/api?username=himanshu231204&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
-</p>
-
-<p align="center">
-  💬 <em>"Code is like humor. When you have to explain it, it's bad."</em>
-</p>
-
-<p align="center">
-  ⭐ <strong>If you find my work useful, please consider giving a star!</strong> ⭐
-</p>
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=himanshu231204&icon=2&color=13" alt="Visit Count"/>
-  </a>
-</p>
-
-
