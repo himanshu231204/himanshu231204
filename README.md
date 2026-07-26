@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Open+Source+Builder+%F0%9F%9A%80;Backend+Developer+%F0%9F%96%A5%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Python+Developer+Tools+Craftsman+%F0%9F%94%A7;Local+LLM+Explorer+%F0%9F%A7%A0;DSA+in+C%2B%2B+Practitioner+%E2%9A%A1" alt="Animated text showing professional roles: Open Source Builder, AI Engineer, AI &amp; ML Enthusiast, Python Developer Tools Craftsman, Local LLM Explorer, DSA in C++ Practitioner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Open+Source+Contributor+%E2%9C%8D%EF%B8%8F;ML+Engineer+%F0%9F%93%8A;LLM+Infra+Builder+%F0%9F%9A%80;Agentic+Systems+%F0%9F%94%84;Founder+%40OpenAgentHQ+%F0%9F%92%A1" alt="Animated text showing professional roles: AI Engineer, Open Source Contributor, ML Engineer, LLM Infra Builder, Agentic Systems, Founder @OpenAgentHQ" />
 </p>
 
 ---
@@ -22,39 +22,70 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-<!-- Animated card for class Himanshu — decoded SVG lines:
-     name       = "Himanshu Kumar"
-     location   = "India 🇮🇳"
-     education  = "B.Tech CSE (Undergraduate)"
-     roles      = ["Open Source Contributor",
-                   "Backend Developer", ...]
-     currently  = "Python Dev Tools & Local AI 🤖"
-     fun_fact   = "I automate Git workflows w/ AI! 🚀"
--->
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%90%8D+class+Himanshu%3A&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="class Himanshu animated card header" width="520" /><br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=2000&color=00D9FF&center=false&vCenter=true&multiline=true&width=520&height=200&lines=++++name+++++++=+%22Himanshu+Kumar%22;++++location+++=+%22India+%F0%9F%87%AE%F0%9F%87%B3%22;++++education++=+%22B.Tech+CSE+(Undergraduate)%22;++++roles++++++=+%5B%22Open+Source+Contributor%22%2C;++++++++++++++++++%22Backend+Developer%22%2C+...%5D;++++currently++=+%22Python+Dev+Tools+%26+Local+AI+%F0%9F%A4%96%22;++++fun_fact+++=+%22I+automate+Git+workflows+w%2F+AI%21+%F0%9F%9A%80%22" alt="Animated class Himanshu attributes" width="520" /><br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=52&text=%F0%9F%91%A4+class+Himanshu%3A&fontSize=24&fontColor=ffffff&animation=fadeIn" alt="class Himanshu animated card header" width="520" /><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=2000&color=00D9FF&center=false&vCenter=true&multiline=true&width=520&height=200&lines=++++name+++++++=+%22Himanshu+Kumar%22;++++handle+++++=+%22%40himanshu231204%22;++++identity+++=+%22AI+Engineer+%C2%B7+Founder%2C+OpenAgentHQ%22;++++education++=+%22B.Tech+CSE+(Undergraduate)%22;++++focus++++++=%22Agentic+Systems+%26+LLM+Infra%22;++++currently++=+%22Shipping+open+source+AI+tools%22" alt="Animated class Himanshu attributes" width="520" /><br/>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=6" alt="card bottom border" width="520" />
 </p>
 
-- 🎓 **CSE Undergraduate** — passionate about building things that matter
-- 💻 **Open Source Contributor** — sharing tools the dev community can use
-- 🚀 Building **Python-based Developer Tools**
-- 🧠 Interested in **Machine Learning, AI tools & Backend Development**
-- ⚡ Sharpening **Data Structures & Algorithms** in C++
-- 🤖 Exploring **Local AI & LLM applications**
-- 📊 Learning **Machine Learning & Data Science**
+CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and ship open source tools around **agentic systems**, **RAG pipelines**, and **LLM infrastructure** — from CLI tools with real installs to evaluation frameworks for RAG quality.
 
 <br clear="right"/>
 
 ---
 
+## 🎯 Current Focus
+
+Building **agentic systems** and **LLM infrastructure** that ship. Currently working on:
+- Prompt engineering curriculum for production-grade AI workflows
+- RAG pipelines and evaluation frameworks
+- Open source tools that developers actually use
+
+---
+
 ## 🚀 Featured Projects
 
-| 🏷️ Project | 🛠️ Tech Stack | 🔗 |
-|---|---|---|
-| 🧰 **RUN-GIT** — CLI tool that simplifies Git workflows | Python • CLI • Git | [View →](https://github.com/himanshu231204/run-git) |
-| 🤖 **Ollama Git Commit** — AI-powered commit messages using local LLMs | Python • Ollama • LLM | [View →](https://github.com/himanshu231204/ollama-git-commit) |
+### [prompt-engineering-mastery](https://github.com/himanshu231204/prompt-engineering-mastery)
+Production-grade prompt engineering curriculum — 7 modules covering foundations, reasoning, RAG, security, and evaluation.
+
+Model-agnostic (OpenAI/Anthropic/Ollama), runnable notebooks, mini-projects, Mermaid diagrams. Not prompt tips — prompt engineering as a discipline.
+
+`Python` `Jupyter` `LLM` · 🟢 Active
+
+---
+
+### [ml-mastery](https://github.com/himanshu231204/ml-mastery)
+A structured Machine Learning learning & revision repository with hands-on notebooks, practical examples, and quick reference guides for developers and students.
+
+`Jupyter Notebook` `Python` `Scikit-Learn` `NumPy` · 🟢 Active
+
+---
+
+### [run-git](https://github.com/himanshu231204/run-git)
+Lightweight Python CLI tool designed to simplify and automate common Git workflows. Quickly stage, commit, and push code using a single command — reducing repetitive Git commands and improving developer productivity.
+
+`Python` `CLI` `Git` · 🟢 Active
+
+---
+
+### [ragnova-rag-chatbot](https://github.com/himanshu231204/ragnova-rag-chatbot)
+End-to-end RAG (Retrieval-Augmented Generation) pipeline built with LangChain, ChromaDB & Sentence Transformers — ingest PDFs, generate embeddings, and build a semantic search knowledge base for LLM-powered Q&A systems.
+
+`Jupyter Notebook` `LangChain` `ChromaDB` · 🟢 Active
+
+---
+
+### [ai-news-intelligence](https://github.com/himanshu231204/ai-news-intelligence)
+AI intelligence agent that monitors, analyzes, and delivers high-signal AI news, research breakthroughs, and open-source developments.
+
+`Python` `AI Agent` `NLP` · 🟢 Active
+
+---
+
+### [ai-commit](https://github.com/himanshu231204/ai-commit)
+Generate intelligent git commit messages using local Ollama AI models. Free, private, and works offline!
+
+`Python` `Ollama` `LLM` · 🟢 Active
 
 <p align="center">
   <a href="https://github.com/himanshu231204?tab=repositories">
@@ -160,15 +191,27 @@
 
 ---
 
-## 🌟 Open Source Mission
+## 🌟 Open Source
 
-I enjoy building tools that help developers work faster.
+### Contributions
 
-- ⚡ Developer Productivity Tools
-- 🤖 AI-powered developer workflows
-- 🧠 Local AI + LLM experimentation
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) — PRs for connector features, error handling, workflow preservation
+- [OpenAgentHQ/openagent-eval](https://github.com/OpenAgentHQ/openagent-eval) — 13+ merged PRs: PR review workflows, regression tests, release maintenance
+- [OpenAgentHQ/modeldock](https://github.com/OpenAgentHQ/modeldock) — LM Studio runtime adapter, CI/CD fixes
+- [avenx-js](https://github.com/himanshu231204/avenx-js) — Compiler documentation
+- [Socratic-Math-Tutor](https://github.com/melisasvr/Socratic-Math-Tutor) — Mistake pattern detection feature
 
-> More tools coming soon 🚀
+### Learning Resources
+
+I maintain structured learning repos to help developers learn AI/ML from fundamentals to production:
+
+- [ml-mastery](https://github.com/himanshu231204/ml-mastery) — ML algorithms, notebooks, quick reference guides
+- [PyTorch-Mastery](https://github.com/himanshu231204/PyTorch-Mastery) — Tensors to LLM fine-tuning, one notebook per concept
+- [dl-mastery](https://github.com/himanshu231204/dl-mastery) — Math-first, code-deep Deep Learning for engineers
+- [langchain-playground](https://github.com/himanshu231204/langchain-playground--for-llms-) — LangChain code snippets, notes, mini-projects
+- [langgraph-structured-learning](https://github.com/himanshu231204/langgraph-structured-learning) — Stateful agentic AI systems with LangGraph
+- [prompt-engineering-mastery](https://github.com/himanshu231204/prompt-engineering-mastery) — 7-module prompt engineering curriculum
+- [ML-Algorithms-by-Himanshu](https://github.com/himanshu231204/ML-Algorithms-by-Himanshu) — AI search algorithms with pseudocode & visuals
 
 ---
 
@@ -202,11 +245,6 @@ I enjoy building tools that help developers work faster.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu231204&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6E00" />
 </p>
 
-### ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
 
 ### 🔝 Top Contributed Repo
 
@@ -232,4 +270,4 @@ I enjoy building tools that help developers work faster.
   </a>
 </p>
 
-<!-- Proudly inspired by Navneet088 template (https://github.com/Navneet088) -->
+
