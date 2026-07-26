@@ -60,10 +60,12 @@ CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and 
 
 ## Open Source Contributions
 
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) — PRs for connector features, error handling, workflow preservation
-- [OpenAgentHQ/openagent-eval](https://github.com/OpenAgentHQ/openagent-eval) — 13+ merged PRs: PR review workflows, regression tests, release maintenance
-- [OpenAgentHQ/modeldock](https://github.com/OpenAgentHQ/modeldock) — LM Studio runtime adapter, CI/CD fixes
-- [avenx-js](https://github.com/himanshu231204/avenx-js) — Compiler documentation
+| Repository | Contributions |
+|------------|---------------|
+| [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | Connector features, error handling, workflow preservation |
+| [OpenAgentHQ/openagent-eval](https://github.com/OpenAgentHQ/openagent-eval) | 13+ merged PRs — PR review workflows, regression tests, release maintenance |
+| [OpenAgentHQ/modeldock](https://github.com/OpenAgentHQ/modeldock) | LM Studio runtime adapter, CI/CD fixes |
+| [avenx-js](https://github.com/himanshu231204/avenx-js) | Compiler documentation |
 
 ---
 
