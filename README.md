@@ -31,8 +31,6 @@
 
 CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and ship open source tools around **agentic systems**, **RAG pipelines**, and **LLM infrastructure** — from CLI tools with real installs to evaluation frameworks for RAG quality.
 
-
-
 - **Focus:** Agentic systems, LLM infra, RAG, developer tooling
 - **Org:** [OpenAgentHQ](https://github.com/OpenAgentHQ)
 - **Portfolio:** [himanshu231204.vercel.app](https://himanshu231204.vercel.app)
@@ -41,14 +39,14 @@ CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and 
 
 ## Featured Projects
 
-| Project | Description | Tech Stack | Status |
-|---------|-------------|------------|--------|
-| [openagent-eval](https://github.com/OpenAgentHQ/openagent-eval) | Local-first evaluation framework for RAG systems and AI Agents. 18+ metrics, CLI + SDK, framework-agnostic. | `Python` `RAG` `Evaluation` `CLI` | 🟢 Active |
-| [modeldock](https://github.com/OpenAgentHQ/modeldock) | Python-first model manager for local LLMs. Discover, download, cache, and load models through pluggable runtime adapters. | `Python` `LLM` `Ollama` | 🟢 Active |
-| [run-git](https://github.com/himanshu231204/run-git) | Lightweight Python CLI to simplify and automate common Git workflows. Stage, commit, and push in a single command. | `Python` `CLI` `Git` | 🟢 Active |
-| [ai-news-intelligence](https://github.com/himanshu231204/ai-news-intelligence) | AI intelligence agent that monitors and delivers high-signal AI news, research breakthroughs, and open-source developments. | `Python` `AI Agent` `NLP` | 🟢 Active |
-| [ai-commit](https://github.com/himanshu231204/ai-commit) | Generate intelligent git commit messages using local Ollama AI models. Free, private, and works offline. | `Python` `Ollama` `LLM` | 🟢 Active |
-| [linkedin-ai-comment-copilot](https://github.com/himanshu231204/linkedin-ai-comment-copilot) | AI-powered Chrome Extension that generates context-aware LinkedIn comments using LangGraph multi-agent workflows. | `Python` `LangGraph` `FastAPI` | 🟢 Active |
+| Project | Description | Tech |
+|---------|-------------|------|
+| [openagent-eval](https://github.com/OpenAgentHQ/openagent-eval) | RAG/Agent evaluation framework — 18+ metrics, CLI + SDK | `Python` |
+| [modeldock](https://github.com/OpenAgentHQ/modeldock) | Local LLM model manager with pluggable runtime adapters | `Python` |
+| [run-git](https://github.com/himanshu231204/run-git) | CLI tool to automate Git workflows in a single command | `Python` |
+| [ai-news-intelligence](https://github.com/himanshu231204/ai-news-intelligence) | AI agent for high-signal AI news and research | `Python` |
+| [ai-commit](https://github.com/himanshu231204/ai-commit) | AI commit messages using local Ollama models | `Python` |
+| [linkedin-ai-comment-copilot](https://github.com/himanshu231204/linkedin-ai-comment-copilot) | Chrome Extension for AI-powered LinkedIn comments | `Python` |
 
 <p align="center">
   <a href="https://github.com/himanshu231204?tab=repositories">
@@ -58,12 +56,12 @@ CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and 
 
 ---
 
-## Open Source Contributions
+## Open Source
 
 | Repository | Contributions |
 |------------|---------------|
 | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) | Connector features, error handling, workflow preservation |
-| [OpenAgentHQ/openagent-eval](https://github.com/OpenAgentHQ/openagent-eval) | 13+ merged PRs — PR review workflows, regression tests, release maintenance |
+| [OpenAgentHQ/openagent-eval](https://github.com/OpenAgentHQ/openagent-eval) | 13+ merged PRs — review workflows, tests, releases |
 | [OpenAgentHQ/modeldock](https://github.com/OpenAgentHQ/modeldock) | LM Studio runtime adapter, CI/CD fixes |
 | [avenx-js](https://github.com/himanshu231204/avenx-js) | Compiler documentation |
 
@@ -73,11 +71,11 @@ CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and 
 
 | Repository | Description |
 |------------|-------------|
-| [ml-mastery](https://github.com/himanshu231204/ml-mastery) | ML algorithms, notebooks, quick reference guides |
-| [PyTorch-Mastery](https://github.com/himanshu231204/PyTorch-Mastery) | Tensors to LLM fine-tuning, one notebook per concept |
-| [dl-mastery](https://github.com/himanshu231204/dl-mastery) | Math-first, code-deep Deep Learning for engineers |
-| [langchain-playground](https://github.com/himanshu231204/langchain-playground--for-llms-) | LangChain code snippets, notes, mini-projects |
-| [prompt-engineering-mastery](https://github.com/himanshu231204/prompt-engineering-mastery) | 7-module prompt engineering curriculum |
+| [ml-mastery](https://github.com/himanshu231204/ml-mastery) | ML algorithms & notebooks |
+| [PyTorch-Mastery](https://github.com/himanshu231204/PyTorch-Mastery) | Tensors to LLM fine-tuning |
+| [dl-mastery](https://github.com/himanshu231204/dl-mastery) | Math-first Deep Learning |
+| [langchain-playground](https://github.com/himanshu231204/langchain-playground--for-llms-) | LangChain snippets & projects |
+| [prompt-engineering-mastery](https://github.com/himanshu231204/prompt-engineering-mastery) | 7-module prompt engineering |
 
 ---
 
