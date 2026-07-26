@@ -41,45 +41,14 @@ CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and 
 
 ## Featured Projects
 
-### [OpenAgentHQ/openagent-eval](https://github.com/OpenAgentHQ/openagent-eval)
-Local-first evaluation framework for RAG systems and AI Agents. 18+ metrics, CLI + SDK, framework-agnostic. The pytest of AI evaluation.
-
-`Python` `RAG` `Evaluation` `CLI` · 🟢 Active
-
----
-
-### [OpenAgentHQ/modeldock](https://github.com/OpenAgentHQ/modeldock)
-Lightweight, Python-first model manager for local LLMs. Discover, download, cache, verify, and load models through pluggable runtime adapters — Ollama, LM Studio, llama.cpp, and more.
-
-`Python` `LLM` `Ollama` `Model Management` · 🟢 Active
-
----
-
-### [run-git](https://github.com/himanshu231204/run-git)
-Lightweight Python CLI tool to simplify and automate common Git workflows. Stage, commit, and push in a single command.
-
-`Python` `CLI` `Git` · 🟢 Active
-
----
-
-### [ai-news-intelligence](https://github.com/himanshu231204/ai-news-intelligence)
-AI intelligence agent that monitors, analyzes, and delivers high-signal AI news, research breakthroughs, and open-source developments.
-
-`Python` `AI Agent` `NLP` · 🟢 Active
-
----
-
-### [ai-commit](https://github.com/himanshu231204/ai-commit)
-Generate intelligent git commit messages using local Ollama AI models. Free, private, and works offline.
-
-`Python` `Ollama` `LLM` · 🟢 Active
-
----
-
-### [linkedin-ai-comment-copilot](https://github.com/himanshu231204/linkedin-ai-comment-copilot)
-AI-powered Chrome Extension that generates context-aware LinkedIn comments using LangGraph multi-agent workflows, FastAPI, and LangChain.
-
-`Python` `LangGraph` `FastAPI` `Chrome Extension` · 🟢 Active
+| Project | Description | Tech Stack | Status |
+|---------|-------------|------------|--------|
+| [openagent-eval](https://github.com/OpenAgentHQ/openagent-eval) | Local-first evaluation framework for RAG systems and AI Agents. 18+ metrics, CLI + SDK, framework-agnostic. | `Python` `RAG` `Evaluation` `CLI` | 🟢 Active |
+| [modeldock](https://github.com/OpenAgentHQ/modeldock) | Python-first model manager for local LLMs. Discover, download, cache, and load models through pluggable runtime adapters. | `Python` `LLM` `Ollama` | 🟢 Active |
+| [run-git](https://github.com/himanshu231204/run-git) | Lightweight Python CLI to simplify and automate common Git workflows. Stage, commit, and push in a single command. | `Python` `CLI` `Git` | 🟢 Active |
+| [ai-news-intelligence](https://github.com/himanshu231204/ai-news-intelligence) | AI intelligence agent that monitors and delivers high-signal AI news, research breakthroughs, and open-source developments. | `Python` `AI Agent` `NLP` | 🟢 Active |
+| [ai-commit](https://github.com/himanshu231204/ai-commit) | Generate intelligent git commit messages using local Ollama AI models. Free, private, and works offline. | `Python` `Ollama` `LLM` | 🟢 Active |
+| [linkedin-ai-comment-copilot](https://github.com/himanshu231204/linkedin-ai-comment-copilot) | AI-powered Chrome Extension that generates context-aware LinkedIn comments using LangGraph multi-agent workflows. | `Python` `LangGraph` `FastAPI` | 🟢 Active |
 
 <p align="center">
   <a href="https://github.com/himanshu231204?tab=repositories">
