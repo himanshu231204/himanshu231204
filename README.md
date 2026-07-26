@@ -84,9 +84,7 @@ CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshu231204&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" /><br/>
-  <img src="https://streak-stats.demolab.com/?user=himanshu231204&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6E00&currStreakLabel=00D9FF" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu231204&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF" />
+  <img src="https://streak-stats.demolab.com/?user=himanshu231204&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=FF6E00&currStreakLabel=00D9FF" />
 </p>
 
 ## Activity Graph
