@@ -69,6 +69,18 @@ CS engineering student and AI engineer. Founder of **OpenAgentHQ**. I build and 
 
 ---
 
+## Learning Resources
+
+| Repository | Description |
+|------------|-------------|
+| [ml-mastery](https://github.com/himanshu231204/ml-mastery) | ML algorithms, notebooks, quick reference guides |
+| [PyTorch-Mastery](https://github.com/himanshu231204/PyTorch-Mastery) | Tensors to LLM fine-tuning, one notebook per concept |
+| [dl-mastery](https://github.com/himanshu231204/dl-mastery) | Math-first, code-deep Deep Learning for engineers |
+| [langchain-playground](https://github.com/himanshu231204/langchain-playground--for-llms-) | LangChain code snippets, notes, mini-projects |
+| [prompt-engineering-mastery](https://github.com/himanshu231204/prompt-engineering-mastery) | 7-module prompt engineering curriculum |
+
+---
+
 ## GitHub Stats
 
 <p align="center">
