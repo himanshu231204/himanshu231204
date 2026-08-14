@@ -1,7 +1,7 @@
 <h1 align="center">Himanshu Kumar</h1>
 
 <p align="center">
-  AI Engineer &nbsp;·&nbsp; Founder of <a href="https://github.com/OpenAgentHQ">OpenAgentHQ</a> &nbsp;·&nbsp; Open Source Contributor
+  AI Engineer at <b>Britcore.ai</b> &nbsp;·&nbsp; Founder of <a href="https://github.com/OpenAgentHQ">OpenAgentHQ</a> &nbsp;·&nbsp; Open Source Contributor
 </p>
 
 <p align="center">
@@ -22,12 +22,13 @@
 
 ## About
 
-Computer science engineering student and AI engineer, and founder of **[OpenAgentHQ](https://github.com/OpenAgentHQ)**. I design and ship open source tooling for **agentic systems**, **RAG pipelines**, and **LLM infrastructure** — evaluation frameworks, model runtimes, and CLI tools published to PyPI and used in production workflows.
+AI Engineer at **Britcore.ai**, where I build and ship production LLM systems. Outside of work I founded **[OpenAgentHQ](https://github.com/OpenAgentHQ)**, an open source organization focused on **agentic systems**, **RAG pipelines**, and **LLM infrastructure** — evaluation frameworks, model runtimes, and CLI tools published to PyPI.
 
 | | |
 |---|---|
+| **Role** | AI Engineer at Britcore.ai |
 | **Focus** | Agentic systems · LLM infrastructure · RAG · Developer tooling |
-| **Organization** | [OpenAgentHQ](https://github.com/OpenAgentHQ) |
+| **Open Source** | Founder, [OpenAgentHQ](https://github.com/OpenAgentHQ) |
 | **Portfolio** | [himanshu231204.vercel.app](https://himanshu231204.vercel.app) |
 | **Contact** | [himanshu231204@gmail.com](mailto:himanshu231204@gmail.com) |
 
@@ -85,9 +86,9 @@ Computer science engineering student and AI engineer, and founder of **[OpenAgen
 
 ---
 
-## Writing & Learning Resources
+## Technical Writing
 
-Long-form, hands-on repositories written while learning in public.
+Long-form engineering references I maintain, written for practitioners.
 
 | Repository | Description |
 |---|---|
