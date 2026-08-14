@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshu231204&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/himanshu231204?label=Followers&style=flat&color=0e75b6" alt="GitHub followers" />
+</p>
+
 <h1 align="center">Himanshu Kumar</h1>
 
 <p align="center">
