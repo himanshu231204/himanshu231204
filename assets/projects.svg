@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="840" height="236" viewBox="0 0 840 236" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13">
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="257" viewBox="0 0 840 257" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="13">
 <style>.blink{animation:b 1.06s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
-<rect width="840" height="236" rx="10" fill="#000000" stroke="#21262d"/>
+<rect width="840" height="257" rx="10" fill="#000000" stroke="#21262d"/>
 <path d="M0 10a10 10 0 0 1 10-10h820a10 10 0 0 1 10 10v24H0z" fill="#0d1117"/>
 <line x1="0" y1="34" x2="840" y2="34" stroke="#21262d"/>
 <circle cx="20" cy="17.0" r="5.5" fill="#ff5f56"/>
@@ -14,4 +14,5 @@
 <text x="22.0" y="168" xml:space="preserve"><tspan fill="#8b949e">drwxr-xr-x  </tspan><tspan fill="#58a6ff">mcp-web-search        </tspan><tspan fill="#bc8cff">Python      </tspan><tspan fill="#c9d1d9">production MCP server · search + page extraction</tspan></text>
 <text x="22.0" y="189" xml:space="preserve"><tspan fill="#8b949e">drwxr-xr-x  </tspan><tspan fill="#58a6ff">ai-comment-copilot    </tspan><tspan fill="#bc8cff">Python      </tspan><tspan fill="#c9d1d9">chrome extension · LangGraph multi-agent flows</tspan></text>
 <text x="22.0" y="210" xml:space="preserve"><tspan fill="#8b949e">drwxr-xr-x  </tspan><tspan fill="#58a6ff">ai-news-intelligence  </tspan><tspan fill="#bc8cff">Python      </tspan><tspan fill="#c9d1d9">agent · monitors high-signal AI research</tspan></text>
+<text x="22.0" y="231" xml:space="preserve"><tspan fill="#8b949e">drwxr-xr-x  </tspan><tspan fill="#58a6ff">agent-skills          </tspan><tspan fill="#bc8cff">Markdown    </tspan><tspan fill="#c9d1d9">agent skills · visual-concept-notes, contributor-ready</tspan></text>
 </svg>

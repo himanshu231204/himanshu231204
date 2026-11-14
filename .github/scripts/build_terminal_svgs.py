@@ -201,6 +201,7 @@ def build_whoami():
         kv("focus", "agentic systems · LLM infrastructure · RAG · devtools"),
         kv("ships", "eval frameworks, model runtimes, CLIs published to PyPI"),
         kv("portfolio", "himanshu231204.vercel.app", value_color=BLUE),
+        kv("store", "himanshu231204.gumroad.com · free notes & skills", value_color=BLUE),
         kv("email", "himanshu231204@gmail.com", value_color=BLUE),
     ])
 
@@ -224,6 +225,7 @@ PROJECTS = [
     ("mcp-web-search", "Python", "production MCP server · search + page extraction"),
     ("ai-comment-copilot", "Python", "chrome extension · LangGraph multi-agent flows"),
     ("ai-news-intelligence", "Python", "agent · monitors high-signal AI research"),
+    ("agent-skills", "Markdown", "agent skills · visual-concept-notes, contributor-ready"),
 ]
 
 
@@ -259,6 +261,7 @@ def build_oss():
 
 
 WRITING = [
+    ("google-adk", "96-page visual notes · production agents with ADK 2.x"),
     ("system-design-fundamentals", "16 runnable demos + a RAG API across 6 scaling stages"),
     ("prompt-engineering-mastery", "7 modules · reasoning, RAG, security, evaluation"),
     ("PyTorch-Mastery", "tensors and autograd through LLM fine-tuning"),
