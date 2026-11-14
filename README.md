@@ -6,13 +6,14 @@
   <a href="https://himanshu231204.vercel.app"><img src="https://img.shields.io/badge/portfolio-0D1117?style=flat-square&logo=vercel&logoColor=58a6ff&labelColor=0D1117" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/himanshu231204"><img src="https://img.shields.io/badge/linkedin-0D1117?style=flat-square&logo=linkedin&logoColor=58a6ff&labelColor=0D1117" alt="LinkedIn" /></a>
   <a href="https://x.com/himanshu231204"><img src="https://img.shields.io/badge/x-0D1117?style=flat-square&logo=x&logoColor=58a6ff&labelColor=0D1117" alt="X" /></a>
+  <a href="https://himanshu231204.gumroad.com"><img src="https://img.shields.io/badge/gumroad-0D1117?style=flat-square&logo=gumroad&logoColor=ff90e8&labelColor=0D1117" alt="Gumroad store" /></a>
   <a href="mailto:himanshu231204@gmail.com"><img src="https://img.shields.io/badge/email-0D1117?style=flat-square&logo=gmail&logoColor=58a6ff&labelColor=0D1117" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=himanshu231204&label=visitors&color=0d1117&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/himanshu231204?label=followers&style=flat-square&color=0D1117&labelColor=0D1117" alt="GitHub followers" />
 </p>
 
 <p align="center">
-  <img src="assets/whoami.svg" alt="whoami --verbose. Role: AI Engineer at Britcore.ai. OSS: Founder, OpenAgentHQ. Focus: agentic systems, LLM infrastructure, RAG, devtools. Ships eval frameworks, model runtimes and CLIs published to PyPI. Portfolio: himanshu231204.vercel.app. Email: himanshu231204@gmail.com." width="840" />
+  <img src="assets/whoami.svg" alt="whoami --verbose. Role: AI Engineer at Britcore.ai. OSS: Founder, OpenAgentHQ. Focus: agentic systems, LLM infrastructure, RAG, devtools. Ships eval frameworks, model runtimes and CLIs published to PyPI. Portfolio: himanshu231204.vercel.app. Store: himanshu231204.gumroad.com, free notes and skills. Email: himanshu231204@gmail.com." width="840" />
 </p>
 
 <p align="center">
@@ -20,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/projects.svg" alt="ls -la ~/projects. openagent-eval: RAG and agent evaluation, 18+ metrics, CLI and SDK. modeldock: local LLM manager with pluggable runtime adapters. run-git: PyPI CLI for git workflows in a single command. mcp-web-search: production MCP server for search and page extraction. ai-comment-copilot: chrome extension with LangGraph multi-agent flows. ai-news-intelligence: agent monitoring high-signal AI research." width="840" />
+  <img src="assets/projects.svg" alt="ls -la ~/projects. openagent-eval: RAG and agent evaluation, 18+ metrics, CLI and SDK. modeldock: local LLM manager with pluggable runtime adapters. run-git: PyPI CLI for git workflows in a single command. mcp-web-search: production MCP server for search and page extraction. ai-comment-copilot: chrome extension with LangGraph multi-agent flows. ai-news-intelligence: agent monitoring high-signal AI research. agent-skills: agent skills including visual-concept-notes and contributor-ready." width="840" />
 </p>
 
 <p align="center">
@@ -30,6 +31,7 @@
   <a href="https://github.com/himanshu231204/mcp-web-search"><img src="https://img.shields.io/badge/mcp--web--search-0D1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0D1117" alt="mcp-web-search" /></a>
   <a href="https://github.com/himanshu231204/linkedin-ai-comment-copilot"><img src="https://img.shields.io/badge/ai--comment--copilot-0D1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0D1117" alt="linkedin-ai-comment-copilot" /></a>
   <a href="https://github.com/himanshu231204/ai-news-intelligence"><img src="https://img.shields.io/badge/ai--news--intelligence-0D1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0D1117" alt="ai-news-intelligence" /></a>
+  <a href="https://github.com/himanshu231204/agent-skills"><img src="https://img.shields.io/badge/agent--skills-0D1117?style=flat-square&logo=github&logoColor=58a6ff&labelColor=0D1117" alt="agent-skills" /></a>
   <a href="https://github.com/himanshu231204?tab=repositories"><img src="https://img.shields.io/badge/all_repos-0D1117?style=flat-square&logo=github&logoColor=3fb950&labelColor=0D1117" alt="All repositories" /></a>
 </p>
 
@@ -45,10 +47,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/writing.svg" alt="man himanshu — long-form engineering references, written for practitioners. system-design-fundamentals: 16 runnable demos plus a RAG API across 6 scaling stages. prompt-engineering-mastery: 7 modules on reasoning, RAG, security, evaluation. PyTorch-Mastery: tensors and autograd through LLM fine-tuning. ml-mastery: algorithms, notebooks and reference guides. dl-mastery: math-first deep learning from derivations to code." width="840" />
+  <img src="assets/writing.svg" alt="man himanshu — long-form engineering references, written for practitioners. google-adk: 96-page visual notes on production agents with ADK 2.x. system-design-fundamentals: 16 runnable demos plus a RAG API across 6 scaling stages. prompt-engineering-mastery: 7 modules on reasoning, RAG, security, evaluation. PyTorch-Mastery: tensors and autograd through LLM fine-tuning. ml-mastery: algorithms, notebooks and reference guides. dl-mastery: math-first deep learning from derivations to code." width="840" />
 </p>
 
 <p align="center">
+  <a href="https://github.com/himanshu231204/google-adk"><img src="https://img.shields.io/badge/google--adk-0D1117?style=flat-square&logo=github&logoColor=bc8cff&labelColor=0D1117" alt="google-adk" /></a>
   <a href="https://github.com/himanshu231204/system-design-fundamentals"><img src="https://img.shields.io/badge/system--design--fundamentals-0D1117?style=flat-square&logo=github&logoColor=bc8cff&labelColor=0D1117" alt="system-design-fundamentals" /></a>
   <a href="https://github.com/himanshu231204/prompt-engineering-mastery"><img src="https://img.shields.io/badge/prompt--engineering--mastery-0D1117?style=flat-square&logo=github&logoColor=bc8cff&labelColor=0D1117" alt="prompt-engineering-mastery" /></a>
   <a href="https://github.com/himanshu231204/PyTorch-Mastery"><img src="https://img.shields.io/badge/PyTorch--Mastery-0D1117?style=flat-square&logo=github&logoColor=bc8cff&labelColor=0D1117" alt="PyTorch-Mastery" /></a>
@@ -76,7 +79,7 @@ Building agentic systems, LLM infrastructure, and developer tools.
 
 - **Focus:** agentic systems · LLM infrastructure · RAG · developer tooling
 - **Stack:** Python, TypeScript, SQL · PyTorch, LangChain, LangGraph, Hugging Face, OpenAI, Anthropic, Ollama · FastAPI, Docker, Redis, ChromaDB, GitHub Actions
-- **Portfolio:** [himanshu231204.vercel.app](https://himanshu231204.vercel.app) · **Email:** [himanshu231204@gmail.com](mailto:himanshu231204@gmail.com)
+- **Portfolio:** [himanshu231204.vercel.app](https://himanshu231204.vercel.app) · **Store:** [himanshu231204.gumroad.com](https://himanshu231204.gumroad.com) (free notes & skills) · **Email:** [himanshu231204@gmail.com](mailto:himanshu231204@gmail.com)
 
 **Projects**
 
@@ -88,6 +91,7 @@ Building agentic systems, LLM infrastructure, and developer tools.
 | [mcp-web-search](https://github.com/himanshu231204/mcp-web-search) | Production MCP server for web search and page extraction |
 | [linkedin-ai-comment-copilot](https://github.com/himanshu231204/linkedin-ai-comment-copilot) | Chrome extension using LangGraph multi-agent workflows |
 | [ai-news-intelligence](https://github.com/himanshu231204/ai-news-intelligence) | Agent that monitors high-signal AI research |
+| [agent-skills](https://github.com/himanshu231204/agent-skills) | Agent skills, including visual-concept-notes and contributor-ready |
 
 **Open source contributions**
 
@@ -102,6 +106,7 @@ Building agentic systems, LLM infrastructure, and developer tools.
 
 | Repository | Description |
 |---|---|
+| [google-adk](https://github.com/himanshu231204/google-adk) | 96-page visual notes on production agents with Google ADK 2.x |
 | [system-design-fundamentals](https://github.com/himanshu231204/system-design-fundamentals) | 16 runnable demos plus a RAG API across six scaling stages |
 | [prompt-engineering-mastery](https://github.com/himanshu231204/prompt-engineering-mastery) | 7 modules — reasoning, RAG, security, evaluation |
 | [PyTorch-Mastery](https://github.com/himanshu231204/PyTorch-Mastery) | Tensors and autograd through LLM fine-tuning |
